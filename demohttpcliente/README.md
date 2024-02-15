@@ -1,5 +1,4 @@
-    Importación de paquetes: El código importa dos paquetes importantes para este ejemplo: flutter/material.dart para los componentes de Flutter y http/http.dart para realizar solicitudes HTTP.
-
+  
 
     
 
